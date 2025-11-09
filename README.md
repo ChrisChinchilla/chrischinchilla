@@ -7,11 +7,21 @@ I am active in many communities such as Write the Docs, The Good Docs project, V
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Increasing focus with macOS Focus Modes and Raycast](https://chrischinchilla.com/2025/focus-macos-raycast/) - Sun, 05 Oct 2025 00:00:00 GMT
+- [Esoteric Languages Challenge Coders to Think Way Outside the Box](https://chrischinchilla.com/2025/esoteric-programming-languages-daniel-temkin/) - Thu, 04 Sep 2025 00:00:00 GMT
+- [At 30 years old, can MySQL Revamp Itself for the AI Age?](https://chrischinchilla.com/2025/30-years-mysql/) - Thu, 14 Aug 2025 00:00:00 GMT
+- [3 Grammarly desktop alternatives](https://chrischinchilla.com/2025/grammarly-desktop-alternatives/) - Mon, 28 Jul 2025 00:00:00 GMT
+- [Cross-Border Data Processing With Privacy Compliance Through Expanso](https://chrischinchilla.com/2025/cross-border-data-processing-with/) - Thu, 22 May 2025 00:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [75f1b19](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/75f1b1971362fa6fb042c65a98c02d06014ab20f) - Fix RSS (November 09, 2025)
+- **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: Released [v0.0.1](https://github.com/ChrisChinchilla/Apple-style-guide/releases/tag/v0.0.1) (November 09, 2025)
+- **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [3ab879c](https://github.com/ChrisChinchilla/Apple-style-guide/commit/3ab879cf9ca9947b7594018034ffca04697a6909) - Rewrite rules (November 09, 2025)
+- **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [c3d319e](https://github.com/ChrisChinchilla/Apple-style-guide/commit/c3d319ec933a84511303dbde0afa13c018943313) - Prepare release (November 09, 2025)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [43b07e0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/43b07e0221de4f2bad9cdba930c930d2a14032c2) - New newsletter (November 06, 2025)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
