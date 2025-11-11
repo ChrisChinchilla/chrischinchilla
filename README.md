@@ -17,11 +17,11 @@ I am active in many communities such as Write the Docs, The Good Docs project, V
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [c6f8e37](https://github.com/ChrisChinchilla/Vale-MCP/commit/c6f8e37b0bac0c9cf504b284b3ce8ad429fbf2b3) - Merge pull request #11 from ChrisChinchilla/chrischinch/check_txt (November 10, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [75f1b19](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/75f1b1971362fa6fb042c65a98c02d06014ab20f) - Fix RSS (November 09, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: Released [v0.0.1](https://github.com/ChrisChinchilla/Apple-style-guide/releases/tag/v0.0.1) (November 09, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [3ab879c](https://github.com/ChrisChinchilla/Apple-style-guide/commit/3ab879cf9ca9947b7594018034ffca04697a6909) - Rewrite rules (November 09, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [c3d319e](https://github.com/ChrisChinchilla/Apple-style-guide/commit/c3d319ec933a84511303dbde0afa13c018943313) - Prepare release (November 09, 2025)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [43b07e0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/43b07e0221de4f2bad9cdba930c930d2a14032c2) - New newsletter (November 06, 2025)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
