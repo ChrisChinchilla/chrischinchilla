@@ -17,9 +17,9 @@ I am active in many communities such as Write the Docs, The Good Docs project, V
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [71fd905](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/71fd905278197224b0c94864f41c1b08945a6d23) - New sponsor (November 20, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d11f0b0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d11f0b0a92d7e8968b9320df8313bafa4eef2964) - Astro updates, bug fixes, add read me and funding (#119) (November 16, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [92343bb](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/92343bb6c83d22e50a12e8091dd5546513bd434f) - Mobile optimisations (#118) (November 16, 2025)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [6764abf](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/6764abf2e1c01b2fd571a5fc70dbc96377bb8c65) - Variety of SEO and domain authority fixes (#117) (November 15, 2025)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [c6f8e37](https://github.com/ChrisChinchilla/Vale-MCP/commit/c6f8e37b0bac0c9cf504b284b3ce8ad429fbf2b3) - Merge pull request #11 from ChrisChinchilla/chrischinch/check_txt (November 10, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: Released [v0.0.1](https://github.com/ChrisChinchilla/Apple-style-guide/releases/tag/v0.0.1) (November 09, 2025)
 <!-- GITHUB-ACTIVITY:END -->
