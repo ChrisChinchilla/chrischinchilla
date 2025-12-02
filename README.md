@@ -17,11 +17,11 @@ I am active in many communities such as Write the Docs, The Good Docs project, V
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [180454e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/180454e8c2c68ba802975e0f74a49e0fbb4f1d9f) - Add ContentEntry interface to clarify id usage in Hero.astro (#125) (December 01, 2025)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [bbdb8c8](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/bbdb8c89df8e57ec43d4b43ce89b60e3c70914f9) - Add date-based sorting to hero carousel (#123) (December 01, 2025)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [eff74bd](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/eff74bd4a1547b8f0df9caf3ecc8471e21f355d8) - Fix heroimage schema consistency in events collection (#124) (December 01, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [59c82b2](https://github.com/ChrisChinchilla/Apple-style-guide/commit/59c82b2b9a0cfb5725ca68a6c24927f77e507a5e) - Update readme (November 29, 2025)
 - **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [944eaf9](https://github.com/ChrisChinchilla/Apple-style-guide/commit/944eaf9c2a6625749b168592eb19ceaa9322945b) - Remove & ignore macOS `.DS_Store` files (November 29, 2025)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [3706d1a](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/3706d1ac7b5bc50a94c94c710c8785dd7e56a455) - New podcast (November 27, 2025)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [71fd905](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/71fd905278197224b0c94864f41c1b08945a6d23) - New sponsor (November 20, 2025)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d11f0b0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d11f0b0a92d7e8968b9320df8313bafa4eef2964) - Astro updates, bug fixes, add read me and funding (#119) (November 16, 2025)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
