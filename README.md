@@ -17,11 +17,11 @@ I am active in many communities such as Write the Docs, The Good Docs project, V
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [bb12dfd](https://github.com/ChrisChinchilla/Vale-MCP/commit/bb12dfd277ac86f983839fea9d261c265599fb07) - Merge pull request #14 from ChrisChinchilla/chrischinch/vale-ini (December 09, 2025)
+- **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [a106020](https://github.com/ChrisChinchilla/Vale-MCP/commit/a10602023cb689802dc5584067d90afb497a9a34) - Fix server parsing correct .vale.ini inheritance (December 09, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e0ae1b9](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e0ae1b94d95cfd49246f32af00ee33ebe84af516) - Add new post (December 03, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [406619a](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/406619ab66f6483976a48ef346f2cc074ece9cef) - Latest newsletter (December 03, 2025)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [180454e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/180454e8c2c68ba802975e0f74a49e0fbb4f1d9f) - Add ContentEntry interface to clarify id usage in Hero.astro (#125) (December 01, 2025)
-- **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [59c82b2](https://github.com/ChrisChinchilla/Apple-style-guide/commit/59c82b2b9a0cfb5725ca68a6c24927f77e507a5e) - Update readme (November 29, 2025)
-- **[Apple-style-guide](https://github.com/ChrisChinchilla/Apple-style-guide)**: [944eaf9](https://github.com/ChrisChinchilla/Apple-style-guide/commit/944eaf9c2a6625749b168592eb19ceaa9322945b) - Remove & ignore macOS `.DS_Store` files (November 29, 2025)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
