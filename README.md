@@ -1,8 +1,10 @@
 # Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrischinchilla)](https://github.com/anuraghazra/github-readme-stats)
+
 I am Chris, a Technical writer, developer experience aficionado, blogger, podcaster, streamer, game, and fiction writer.
 
-I am active in many communities such as Write the Docs, The Good Docs project, Vale, and more. If I find an issue in your documentation I will submit a PR ;)
+I am active in many communities, such as Write the Docs, The Good Docs project, Vale, and more. If I find an issue in your documentation, I will submit a PR ;)
 
 ## Latest blog posts
 
