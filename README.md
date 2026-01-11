@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrischinchilla)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://gh-readme-stats-teal.vercel.app/api?username=chrischinchilla)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Chris, a Technical writer, developer experience aficionado, blogger, podcaster, streamer, game, and fiction writer.
 
