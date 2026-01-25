@@ -9,21 +9,21 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Cleaning Cloud Storage with CleanMyMac](https://chrischinchilla.com/2026/cleaning-cloud-storage-with-cleanmymac/) - Sat, 24 Jan 2026 00:00:00 GMT
 - [At Ukraine’s Top Tech Event, Faster and Cheaper Rule](https://chrischinchilla.com/2025/ukraine-weapons/) - Mon, 10 Nov 2025 00:00:00 GMT
 - [Increasing focus with macOS Focus Modes and Raycast](https://chrischinchilla.com/2025/focus-macos-raycast/) - Sun, 05 Oct 2025 00:00:00 GMT
 - [Esoteric Languages Challenge Coders to Think Way Outside the Box](https://chrischinchilla.com/2025/esoteric-programming-languages-daniel-temkin/) - Thu, 04 Sep 2025 00:00:00 GMT
 - [At 30 years old, can MySQL Revamp Itself for the AI Age?](https://chrischinchilla.com/2025/30-years-mysql/) - Thu, 14 Aug 2025 00:00:00 GMT
-- [3 Grammarly desktop alternatives](https://chrischinchilla.com/2025/grammarly-desktop-alternatives/) - Mon, 28 Jul 2025 00:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [bd43dc5](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/bd43dc53e17f4103678af86b077bf15680a4792f) - New podcast (January 23, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [638f61f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/638f61f48f376f155059562ecd49fedf171dbf91) - Update open source (January 24, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [995c1c0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/995c1c0b29d559aa75dd0dd1ddf0d22ec45ef3e5) - New post (January 24, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e32bfe7](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e32bfe724011519e9cf851f0633e6c44ba1d7bbc) - Optimize external podcast images with explicit dimensions and lazy loading (#135) (January 24, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: Released [0.4.6](https://github.com/ChrisChinchilla/Openly/releases/tag/0.4.6) (January 13, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [253fe2b](https://github.com/ChrisChinchilla/Openly/commit/253fe2bd0464b1147f5cb77d6875bcf3555ddae3) - Merge branch 'main' of github.com:testthedocs/Openly (January 13, 2026)
-- **[Openly](https://github.com/ChrisChinchilla/Openly)**: [d0cb957](https://github.com/ChrisChinchilla/Openly/commit/d0cb957702ad4fee91cb9ccc494877d88dde32ca) - Add AI spelling exceptions (January 13, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [893e8db](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/893e8db319d54f9afd415ba363df2adf5f74b913) - Package updates and update node to fix Netlify (#139) (January 07, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
