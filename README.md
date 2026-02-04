@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [c7fa5be](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/c7fa5be2d489daa50ec9552cf569dd4a1c006535) - New newsletter and podcast (February 03, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [638f61f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/638f61f48f376f155059562ecd49fedf171dbf91) - Update open source (January 24, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [995c1c0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/995c1c0b29d559aa75dd0dd1ddf0d22ec45ef3e5) - New post (January 24, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e32bfe7](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e32bfe724011519e9cf851f0633e6c44ba1d7bbc) - Optimize external podcast images with explicit dimensions and lazy loading (#135) (January 24, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: Released [0.4.6](https://github.com/ChrisChinchilla/Openly/releases/tag/0.4.6) (January 13, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [253fe2b](https://github.com/ChrisChinchilla/Openly/commit/253fe2bd0464b1147f5cb77d6875bcf3555ddae3) - Merge branch 'main' of github.com:testthedocs/Openly (January 13, 2026)
 <!-- GITHUB-ACTIVITY:END -->
