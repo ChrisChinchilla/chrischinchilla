@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [0f116b4](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/0f116b40a4043ed75a1929cc4533ff3b2b4be101) - New newsletter (February 18, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [fb4191e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/fb4191ef5ff84e6bb9d084130e4eedd3383edfe6) - New newsletter and podcast (February 03, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [638f61f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/638f61f48f376f155059562ecd49fedf171dbf91) - Update open source (January 24, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [995c1c0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/995c1c0b29d559aa75dd0dd1ddf0d22ec45ef3e5) - New post (January 24, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: Released [0.4.6](https://github.com/ChrisChinchilla/Openly/releases/tag/0.4.6) (January 13, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [253fe2b](https://github.com/ChrisChinchilla/Openly/commit/253fe2bd0464b1147f5cb77d6875bcf3555ddae3) - Merge branch 'main' of github.com:testthedocs/Openly (January 13, 2026)
 <!-- GITHUB-ACTIVITY:END -->
