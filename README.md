@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [0f116b4](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/0f116b40a4043ed75a1929cc4533ff3b2b4be101) - New newsletter (February 18, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [fb4191e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/fb4191ef5ff84e6bb9d084130e4eedd3383edfe6) - New newsletter and podcast (February 03, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [638f61f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/638f61f48f376f155059562ecd49fedf171dbf91) - Update open source (January 24, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [1a9e330](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/1a9e3301dd1f5066e67fed4fda8460fc8e6d0ec0) - New podcast (February 19, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [ca15874](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/ca15874e3f75c6b0deeff850e5a86dc5b5c1ed1d) - Remove descript embed (February 19, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [4c29a1b](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/4c29a1b0187cd0ff617ec0cf0b6a91cf62d803c7) - New newsletter (February 18, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: Released [0.4.6](https://github.com/ChrisChinchilla/Openly/releases/tag/0.4.6) (January 13, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [253fe2b](https://github.com/ChrisChinchilla/Openly/commit/253fe2bd0464b1147f5cb77d6875bcf3555ddae3) - Merge branch 'main' of github.com:testthedocs/Openly (January 13, 2026)
 <!-- GITHUB-ACTIVITY:END -->
