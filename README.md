@@ -10,20 +10,20 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 
 <!-- BLOG-POSTS:START -->
 - [The Sustainable Fullstack](https://chrischinchilla.com/books/the-sustainable-fullstack/) - Wed, 01 Apr 2026 00:00:00 GMT
+- [Opening the can of AI-generated worms](https://chrischinchilla.com/newsletter/190326/) - Thu, 19 Mar 2026 08:00:00 GMT
 - [Is TypeBoost the AI personal assistant you've been looking for?](https://chrischinchilla.com/2026/typeboost/) - Tue, 17 Mar 2026 00:00:00 GMT
 - [Autocomplete the fun in your life](https://chrischinchilla.com/newsletter/050326/) - Thu, 05 Mar 2026 08:00:00 GMT
 - [Autocomplete the fun in your life](https://chrischinchilla.com/newsletter/040326/) - Wed, 04 Mar 2026 08:00:00 GMT
-- [Testing Neon - Opera's agentic browser](https://chrischinchilla.com/2026/opera-neon/) - Wed, 04 Mar 2026 00:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [9755694](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/9755694cacd8501163f94d526794a9ff734c52a1) - New newsletter (March 20, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [9e16d36](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/9e16d3687e2a990b1d5a3bb154587fe09fc23dbd) - New posts (#150) (March 17, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e50f809](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e50f809eaf5b144efd4aa214db713a6470185da5) - New podcast, books updates (March 12, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [51f5e4e](https://github.com/ChrisChinchilla/Vale-MCP/commit/51f5e4ea13cb17c16184f58bf92a45e4cdb7cad6) - Merge pull request #18 from ChrisChinchilla/copilot/add-non-global-install-instruction (March 10, 2026)
-- **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [3cbe09c](https://github.com/ChrisChinchilla/Vale-MCP/commit/3cbe09c82bb1b5787f8e625e9df37d0816665f8c) - Add text_file_ext property to check_text (March 09, 2026)
 <!-- GITHUB-ACTIVITY:END -->
 
 ## Support and connect with me
