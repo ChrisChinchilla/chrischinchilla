@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [eb13857](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/eb1385723bd307e9921d18db0c30ee36ec45795a) - New podcast (March 26, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [9755694](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/9755694cacd8501163f94d526794a9ff734c52a1) - New newsletter (March 20, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [9e16d36](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/9e16d3687e2a990b1d5a3bb154587fe09fc23dbd) - New posts (#150) (March 17, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e50f809](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e50f809eaf5b144efd4aa214db713a6470185da5) - New podcast, books updates (March 12, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [51f5e4e](https://github.com/ChrisChinchilla/Vale-MCP/commit/51f5e4ea13cb17c16184f58bf92a45e4cdb7cad6) - Merge pull request #18 from ChrisChinchilla/copilot/add-non-global-install-instruction (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
