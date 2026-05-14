@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [dec0d81](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/dec0d8137595ef2af2e37917ba3636afc5052dab) - Package updates (May 13, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [4ba37d2](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/4ba37d248acb53632f4b50a0b002f2f5d5c7ee44) - Update events (May 12, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [1f689bf](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/1f689bf939a6d6725fd30acdb404d8ec8cb2875c) - New podcast (May 07, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d04e13b](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d04e13b03747961af13b6a2de4e627843873f1cb) - Add AI features (#155) (April 30, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
