@@ -10,18 +10,18 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 
 <!-- BLOG-POSTS:START -->
 - [The Dark Embrace of Infinite Space](https://chrischinchilla.com/music/the-dark-embrace-of-infinite-space/) - Sun, 14 Jun 2026 00:00:00 GMT
+- [Holy retro human](https://chrischinchilla.com/newsletter/050626/) - Fri, 05 Jun 2026 01:00:00 GMT
 - [Revisiting 2016 - Links from ten years ago](https://chrischinchilla.com/2026/links-from-ten-years-ago/) - Wed, 03 Jun 2026 00:00:00 GMT
 - [You and I](https://chrischinchilla.com/music/you-and-i/) - Wed, 27 May 2026 00:00:00 GMT
 - [A demonic plugin obsession](https://chrischinchilla.com/newsletter/220526/) - Fri, 22 May 2026 15:00:00 GMT
-- [Gaining an artvantage](https://chrischinchilla.com/newsletter/140526/) - Thu, 14 May 2026 16:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [7bebe39](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/7bebe396448fa19d08cef0339390b85bd7bf5390) - Merge branch 'main' of github.com:ChrisChinchilla/chrischinchilla.com (June 05, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e8405c3](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e8405c3b8df40d749a735964544c25a260f1804c) - New newsletter (June 05, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [04d416e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/04d416e74818ef807f3ef7e0e0b658474459a01a) - Correct shared image (June 03, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [194aef0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/194aef0c8f21953827913767ac580e9aecc9cc5c) - Merge branch 'main' of github.com:ChrisChinchilla/chrischinchilla.com (June 03, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [84fdff4](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/84fdff478f1cee0d32df5d3019a95d39c23c164f) - New post (June 03, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
