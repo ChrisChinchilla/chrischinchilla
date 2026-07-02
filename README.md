@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [b8a4faa](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/b8a4faaefc8bbcf4b4aa652f7be20b1ecbf8d033) - Merge branch 'main' of https://github.com/ChrisChinchilla/chrischinchilla.com (July 01, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [3de8ca0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/3de8ca0876fbe01a757e379242dfb7ee7fe10b36) - Update music releases (July 01, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [5f90374](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/5f90374bbb1392fc16d2adc60f108eb74882f89d) - New podcast (June 27, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [58a8961](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/58a8961f4bd80df7b1147254b8a60503cae7b4fc) - Fix links (June 15, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a70d073](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a70d073cfcc22c44066986f6bafefab9ef006e68) - Fix and consolidate header logo (June 14, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
