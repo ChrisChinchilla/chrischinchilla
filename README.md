@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [e0e895a](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/e0e895a6c53495546fb35a82d03defb80eea2039) - 2024 stories (#157) (July 08, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [0205d65](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/0205d65fd3196387c6fd14b4f11799f640efb6e2) - New book announcement (July 06, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [40b0027](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/40b00271b884d45d584ca867201b79ce8f6b0144) - Merge branch 'main' of https://github.com/ChrisChinchilla/chrischinchilla.com (July 06, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [dc24cc1](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/dc24cc17228a9f2a46556fe7f407fa2e61205144) - New book post (July 06, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
