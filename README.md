@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [13a5204](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/13a52041e9f52ebe644596fc74f8ee4088bae523) - Fix related posts links (July 19, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [348c071](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/348c071d7a60858dcba9750c818614a9b7d66836) - Update CV (July 16, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [3040d62](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/3040d62569f946abdfe9ebc1aabedb8a12800dc3) - Merge branch 'main' of https://github.com/ChrisChinchilla/chrischinchilla.com (July 16, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d9c29e3](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d9c29e389e83ba6bb8a877f3ae6d7977a01f343e) - Update CV (July 16, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
