@@ -9,19 +9,19 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Games, gear, and gregarious tales](https://chrischinchilla.com/newsletter/310726/) - Fri, 31 Jul 2026 15:00:00 GMT
 - [While my app gently memory leaks](https://chrischinchilla.com/newsletter/160726/) - Thu, 16 Jul 2026 15:00:00 GMT
 - [I have a new book out on creating the sustainable web](https://chrischinchilla.com/2026/i-have-a-new-book/) - Mon, 06 Jul 2026 01:00:00 GMT
 - [Building the Sustainable Web](https://chrischinchilla.com/books/building-the-sustainable-web/) - Wed, 01 Jul 2026 00:00:00 GMT
 - [The dark embrace of infinite space](https://chrischinchilla.com/music/the-dark-embrace-of-infinite-space/) - Sun, 14 Jun 2026 00:00:00 GMT
-- [I am releasing music for the first time in 15 years](https://chrischinchilla.com/2026/im-releasing-music/) - Sat, 13 Jun 2026 01:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [6ab3273](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/6ab32733a85d709854d4f97da3052d3410a745cb) - New newsletter (July 31, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [292ae9e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/292ae9ec279b6f7d5d93ce1f2e5587870a41680a) - Gear update (#160) (July 31, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [60a043f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/60a043f070e5e32793bab4412703168772fa70de) - Add and update games (#159) (July 29, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [7e280f9](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/7e280f9c7438a8e430c2e131907f9546afb04e4c) - Update dependencies and harden Astro build against strict parsing and unavailable external feeds (#158) (July 29, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [b97db9d](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/b97db9d85d532d4ae0a5d186d6f1849a41c092aa) - Fix images (July 23, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
