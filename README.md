@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [411f925](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/411f925f9bacc7b18a827bcaf4cd0f9b67af5917) - Fishman draft (August 05, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [6ab3273](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/6ab32733a85d709854d4f97da3052d3410a745cb) - New newsletter (July 31, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [292ae9e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/292ae9ec279b6f7d5d93ce1f2e5587870a41680a) - Gear update (#160) (July 31, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [60a043f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/60a043f070e5e32793bab4412703168772fa70de) - Add and update games (#159) (July 29, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
