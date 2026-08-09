@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [f202069](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/f2020696d65f3dff6b9f08b06348320258274d08) - Update post (August 08, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [0bc15c0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/0bc15c09782aff251f2923be5b00ae6d13f89ebe) - Add social share links to listing cards and detail pages (#163) (August 08, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [cacf4d7](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/cacf4d7391692c2ceb673af93d40749bf2c9e2dc) - New podcast (August 06, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [8ab835f](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/8ab835f70e0d19cdc92f37f4da30c401137fa239) - Add consolidated project knowledge in .claude/CLAUDE.md (#162) (August 06, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [c94a5d7](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/c94a5d7514be458a27d6d388aa12caeb394b3410) - Update CV (July 24, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
