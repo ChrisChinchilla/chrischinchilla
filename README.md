@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d5c414b](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d5c414b2c24159b0dd0a68b94898406d0602fce4) - Replace homepage hero carousel with highlighted posts grid (#164) (August 09, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [5bb2983](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/5bb298391eb2e53270be95eb584366999a0202c6) - Refactor newsletter list to use the standard content grid layout (#165) (August 09, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [f202069](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/f2020696d65f3dff6b9f08b06348320258274d08) - Update post (August 08, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a0fbf07](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a0fbf072e812df67b6987b37970b9a33830fb66c) - Add accessibility audit and task checklist (#166) (August 11, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [41b68e0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/41b68e00c0b8433e82e05db9af44d04aa1efbda8) - Add SEO/AEO audit and improvement plan (#167) (August 11, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [82f4098](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/82f4098ba48564ccb274d44b5a95c31e9a522dd5) - Fix book images (August 11, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
