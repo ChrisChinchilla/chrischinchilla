@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [9ae842a](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/9ae842a33985263ec77363bf489b4a75b23f76fc) - Update newsletter image (August 13, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [70b4010](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/70b40107fb44c902833d75dfca1ecbe44741bb7e) - Add new content (#168) (August 12, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a0fbf07](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a0fbf072e812df67b6987b37970b9a33830fb66c) - Add accessibility audit and task checklist (#166) (August 11, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [41b68e0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/41b68e00c0b8433e82e05db9af44d04aa1efbda8) - Add SEO/AEO audit and improvement plan (#167) (August 11, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
