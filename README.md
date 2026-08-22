@@ -19,9 +19,9 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a7b024e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a7b024e01566a30a5caaa1c94757a3a76e624493) - Fix missing podcast and video from reorg (August 21, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [32be5a0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/32be5a06c1c05b5529e228d0e522949ab4f33112) - New podcast (August 20, 2026)
 - **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [2511d61](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/2511d61bc858f5809e5b013cd73559df11a49dd2) - Merge branch 'chrischinch/reorg' (August 17, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [52eb22e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/52eb22e2089a543d2bb49c0955682a3fcbb6c6bf) - Add missing posts (August 17, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
