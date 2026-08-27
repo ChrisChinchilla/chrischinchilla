@@ -9,19 +9,19 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [SimDystopia](https://chrischinchilla.com/newsletter/270826/) - Thu, 27 Aug 2026 01:00:00 GMT
 - [But can AI play Doom?](https://chrischinchilla.com/newsletter/130826/) - Thu, 13 Aug 2026 08:00:00 GMT
 - [Is OpenMusic actually a helpful music AI assistant?](https://chrischinchilla.com/2026/openmusic-helpful/) - Tue, 11 Aug 2026 00:00:00 GMT
 - [Antony & Cleopatra - Love is War soundtrack](https://chrischinchilla.com/music/antony-cleopatra/) - Tue, 04 Aug 2026 00:00:00 GMT
 - [Games, gear, and gregarious tales](https://chrischinchilla.com/newsletter/310726/) - Fri, 31 Jul 2026 15:00:00 GMT
-- [Platform Engineering 2.0 - Evolve the Substrate for AI and Agents](https://chrischinchilla.com/2026/platform-engineering-ai-agents/) - Thu, 16 Jul 2026 17:13:30 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
 
 <!-- GITHUB-ACTIVITY:START -->
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [ca6aa02](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/ca6aa0224119e25d54ed78e703871c4a32550819) - Overhaul gear page (#170) (August 25, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a7b024e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a7b024e01566a30a5caaa1c94757a3a76e624493) - Fix missing podcast and video from reorg (August 21, 2026)
-- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [32be5a0](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/32be5a06c1c05b5529e228d0e522949ab4f33112) - New podcast (August 20, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [a96273e](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/a96273e744a22afd26431c69fb074175780411d3) - Add new sponsor (August 26, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [bbbe204](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/bbbe204165a5f3f33e4354cd1818a4d9b637283e) - Overhaul events (#172) (August 26, 2026)
+- **[chrischinchilla.com](https://github.com/ChrisChinchilla/chrischinchilla.com)**: [d2f1586](https://github.com/ChrisChinchilla/chrischinchilla.com/commit/d2f1586b61b4af5e004262c09052049366e22e3f) - Update footer (#171) (August 26, 2026)
 - **[Openly](https://github.com/ChrisChinchilla/Openly)**: [a48bdb3](https://github.com/ChrisChinchilla/Openly/commit/a48bdb317cb7b838cd4bcf6941265553586cd749) - Merge pull request #35 from ChrisChinchilla/copilot/improve-e-g-i-e-rule (April 04, 2026)
 - **[Vale-MCP](https://github.com/ChrisChinchilla/Vale-MCP)**: [7b5060a](https://github.com/ChrisChinchilla/Vale-MCP/commit/7b5060a8c4079ac6a5914c8a6da615f247b464a1) - Merge pull request #20 from rbwatson/check_text_ext (March 10, 2026)
 <!-- GITHUB-ACTIVITY:END -->
