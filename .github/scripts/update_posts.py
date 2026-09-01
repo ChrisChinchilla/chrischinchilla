@@ -17,6 +17,10 @@ GITHUB_USERNAME = "chrischinchilla"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Optional, improves rate limits
 EXCLUDED_REPOS = ["chrischinchilla"]  # Repos to exclude from activity feed
 
+# New options:
+INCLUDE_FORKS = True          # Set True to include forked repos in activity
+ONLY_MY_COMMITS = True        # When True, show only commits whose GitHub author login matches GITHUB_USERNAME
+
 # Markers to identify where to insert content
 POSTS_START_MARKER = "<!-- BLOG-POSTS:START -->"
 POSTS_END_MARKER = "<!-- BLOG-POSTS:END -->"
@@ -54,7 +58,7 @@ def fetch_latest_posts(feed_url, max_posts):
 
 
 def fetch_github_activity(username, max_items):
-    """Fetch recent commits and releases from non-fork repos."""
+    """Fetch recent commits and releases from repos (optionally including forks)."""
     try:
         # Prepare headers with token if available
         headers = {}
@@ -62,14 +66,16 @@ def fetch_github_activity(username, max_items):
             headers['Authorization'] = f'token {GITHUB_TOKEN}'
             print("Using authenticated GitHub API requests")
 
-        # Get user's repos (non-fork), sorted by most recently updated
+        # Get user's repos (owner type includes forks)
         repos_url = f"https://api.github.com/users/{username}/repos?per_page=100&type=owner&sort=updated"
         repos_response = requests.get(repos_url, headers=headers)
         repos_response.raise_for_status()
-        repos = [r for r in repos_response.json()
-                if not r.get('fork', False) and r['name'] not in EXCLUDED_REPOS]
+        repos = [
+            r for r in repos_response.json()
+            if (INCLUDE_FORKS or not r.get('fork', False)) and r['name'] not in EXCLUDED_REPOS
+        ]
 
-        print(f"Found {len(repos)} non-fork repositories (excluding {len(EXCLUDED_REPOS)} repos)")
+        print(f"Found {len(repos)} repositories (include_forks={INCLUDE_FORKS}, excluding {len(EXCLUDED_REPOS)} repos)")
 
         activities = []
 
@@ -90,6 +96,13 @@ def fetch_github_activity(username, max_items):
                     commit_date = commit_data.get('author', {}).get('date', '')
                     commit_sha = commit.get('sha', '')[:7]
                     commit_url = commit.get('html_url', '')
+
+                    # Optionally filter to commits authored by the GitHub user
+                    if ONLY_MY_COMMITS:
+                        author_login = commit.get('author', {}).get('login')
+                        # If there's no author object, we can't verify — include or skip depending on your preference
+                        if author_login and author_login.lower() != username.lower():
+                            continue
 
                     if commit_date:
                         try:
