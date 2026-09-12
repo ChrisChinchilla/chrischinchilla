@@ -9,11 +9,11 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [How I sync applications between Macs using Homebrew](https://chrischinchilla.com/2026/application-sync-homebrew/) - Fri, 11 Sep 2026 00:00:00 GMT
 - [SimDystopia](https://chrischinchilla.com/newsletter/270826/) - Thu, 27 Aug 2026 01:00:00 GMT
+- [The 2026 Observability Audit - Separating Single Vendor Silos From Community Innovation](https://chrischinchilla.com/2026/2026-observability-audit/) - Wed, 26 Aug 2026 17:13:30 GMT
 - [But can AI play Doom?](https://chrischinchilla.com/newsletter/130826/) - Thu, 13 Aug 2026 08:00:00 GMT
 - [Is OpenMusic actually a helpful music AI assistant?](https://chrischinchilla.com/2026/openmusic-helpful/) - Tue, 11 Aug 2026 00:00:00 GMT
-- [Antony & Cleopatra - Love is War soundtrack](https://chrischinchilla.com/music/antony-cleopatra/) - Tue, 04 Aug 2026 00:00:00 GMT
-- [Games, gear, and gregarious tales](https://chrischinchilla.com/newsletter/310726/) - Fri, 31 Jul 2026 15:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
