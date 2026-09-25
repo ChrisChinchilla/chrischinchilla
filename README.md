@@ -9,11 +9,11 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [IFA 2026 trends - local AI boxes, open back headphones, e-ink, and more](https://chrischinchilla.com/2026/ifa-2026/) - Thu, 24 Sep 2026 09:00:00 GMT
+- [Don't let the Sun go down on Open Source](https://chrischinchilla.com/newsletter/240926/) - Thu, 24 Sep 2026 08:00:00 GMT
 - [What's new for LF Energy in 2026](https://chrischinchilla.com/2026/lf-energy-berlin-2026/) - Wed, 23 Sep 2026 09:00:00 GMT
 - [What's new in adoc Studio 5 for AsciiDoc writers](https://chrischinchilla.com/2026/adoc-studio-5/) - Tue, 15 Sep 2026 00:00:00 GMT
 - [How I sync applications between Macs using Homebrew](https://chrischinchilla.com/2026/application-sync-homebrew/) - Fri, 11 Sep 2026 00:00:00 GMT
-- [SimDystopia](https://chrischinchilla.com/newsletter/270826/) - Thu, 27 Aug 2026 01:00:00 GMT
-- [The 2026 Observability Audit - Separating Single Vendor Silos From Community Innovation](https://chrischinchilla.com/2026/2026-observability-audit/) - Wed, 26 Aug 2026 17:13:30 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
