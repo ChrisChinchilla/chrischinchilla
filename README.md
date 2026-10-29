@@ -9,11 +9,11 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Edge vs cloud storage for video surveillance - where should the data live?](https://chrischinchilla.com/2026/edge-vs-cloud-storage-video-surveillance/) - Wed, 28 Oct 2026 09:00:00 GMT
 - [Punk rock cybersecurity with Brian Panarello of Dark Wolf](https://chrischinchilla.com/2026/cybersecurity-dark-wolf/) - Mon, 26 Oct 2026 00:00:00 GMT
 - [Helicone Alternatives in 2026 - Where to Move Your LLM Proxy](https://chrischinchilla.com/2026/helicone-alternatives-in-2026/) - Wed, 21 Oct 2026 00:00:00 GMT
 - [Making this site easy for AI tools to use: MCP, WebMCP, and more](https://chrischinchilla.com/2026/ai-features-on-this-site/) - Sun, 18 Oct 2026 00:00:00 GMT
 - [Full disk regrets](https://chrischinchilla.com/newsletter/141026/) - Wed, 14 Oct 2026 01:00:00 GMT
-- [AI-powered transcription devices: EurekaMind vs Plaude](https://chrischinchilla.com/2026/transcription-devices-eurekamind-vs-plaude/) - Mon, 05 Oct 2026 09:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
