@@ -9,11 +9,11 @@ I am active in many communities, such as Write the Docs, The Good Docs project, 
 ## Latest blog posts
 
 <!-- BLOG-POSTS:START -->
+- [Music for Your Podcast, Stream or Indie Game: A Practical Guide for Creators Who Are Not Composers](https://chrischinchilla.com/2026/aimusic-composer/) - Mon, 16 Nov 2026 00:00:00 GMT
 - [Close the lid on the source](https://chrischinchilla.com/newsletter/121126/) - Thu, 12 Nov 2026 15:00:00 GMT
 - [Trying Vivoo's at-home tests for general health trends](https://chrischinchilla.com/2026/vivoo-at-home-tests/) - Wed, 11 Nov 2026 09:00:00 GMT
 - [Videos and podcast episodes now live with their articles](https://chrischinchilla.com/2026/videos-and-podcasts-matched-to-articles/) - Fri, 06 Nov 2026 00:00:00 GMT
 - [Is AI Web Scraping Actually Ready for Real Projects?](https://chrischinchilla.com/2026/is-ai-web-scraping-ready-for-real-projects/) - Wed, 04 Nov 2026 00:00:00 GMT
-- [All chAInge](https://chrischinchilla.com/newsletter/291026/) - Thu, 29 Oct 2026 08:00:00 GMT
 <!-- BLOG-POSTS:END -->
 
 ## My personal projects
